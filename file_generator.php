@@ -19,3 +19,7 @@ for ($i=0; $i < $n; $i++) {
     fwrite($myfile,$txt);
     fclose($myfile);
 }
+
+//Md Sahadat Hossanin
+//BSc in CSE(FCUB)
+//sahadatjh@gmail.com
